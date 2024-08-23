@@ -1,6 +1,8 @@
 # Blender-TIFF-Grid-Import
 Import of TIFF Grid Files (.tif) into Blender
 
+I created this addon solely to enable more efficient use of the MNS from IGN, which is always in GeoTIFF format.
+
 This Blender add-on is designed to import TIFF Grid Files (.tif) into Blender, enhancing the software's capabilities with geospatial data visualization. Originally developed for importing ASCII Grid Files (ESRI), this fork adapts the tool to handle TIFF files.
 
 ## Installation
